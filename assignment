@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>toysexhibition</title>
+        <style>
+            h1{
+                color: black;
+                margin-right: 15px;
+                position: relative;
+                left: 500px;
+                
+            }
+            body{
+                margin: 0;
+                padding: 0;
+                background-color: gray;
+            }
+            p {
+                width: 250px;
+                height: 250px;
+                border: 1px solid black;
+                float: left;
+                margin-right: auto;
+                margin-left: auto;
+                font-family: Helvetica;
+                color: white;
+            }
+            #p1{
+                background-color: red;
+                float: left;
+            }
+            #p2{
+                background-color: green;
+                float: center;
+            }
+            #p3{
+                background-color: blue;
+                float: right;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Toys EXHIBITION</h1>
+        <div class='row'>
+            <p id='p1'>SPIDERMAN HOT TOY<em>
+                Still excited by last night’s Spider-Man: No Way Home trailer? Well, you can prolong those Marvel Cinematic Universe endorphins by checking out Hot Toys’ new figure of the upcoming movie’s Spider-Man. Not only is it gorgeous (as usual) but it offers a great look at the new costume Peter Parker (Tom Holland) will be wearing in the movie.
+            </em></p>
+            <p id='p2'>IRONMAN HOTTOY<em>
+                Tony Stark has faced numerous threats since becoming Iron Man, but all the money in the universe can’t bring peace of mind to this billionaire genius after the events Avengers: Infinity War. The Invincible Iron Man must now team up.
+
+Sideshow and Hot Toys present the Iron Man Mark LXXXV Sixth Scale Collectible Figure as the first masterpiece from the line-up.
+            </em></p>
+            <p id='p3'>DRSTRANGE HOTTOY<em>
+                This fall, embark on a mind-blowing adventure across dimensions with Doctor Strange! The Marvel Comics superhero makes his highly anticipated big-screen debut in the upcoming movie of the same title, which is set to expand the Marvel Cinematic Universe in unprecedented ways with the introduction of the Mystic Arts.
+            </em></p>
+        </div>
+    </body>
+</html>
